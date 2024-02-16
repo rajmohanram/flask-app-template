@@ -27,3 +27,5 @@ An app template for large Flask applications with Flask-SQLAlchemy integration. 
 │           └── index.html
 ├── config.py
 ```
+
+https://www.digitalocean.com/community/tutorials/how-to-structure-a-large-flask-application-with-flask-blueprints-and-flask-sqlalchemy
